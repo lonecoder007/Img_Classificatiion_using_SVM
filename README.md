@@ -1,6 +1,6 @@
 # Img_Classificatiion_using_SVM
 ### Identify the dance form 
-Aplication which can identify the dance form  in a given image
+Application which can identify the dance form  in a given image
 #### The application currently can detect 8 dance form which include:
 ##### 1)Manipuri ,2)Bharatanatyam ,3)Odissi ,4)Kathakali ,5)Kathak ,6)Sattriya ,7)Kuchipudi ,8)Mohiniyattam
 
