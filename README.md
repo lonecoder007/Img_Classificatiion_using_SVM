@@ -13,6 +13,6 @@ Aplication which can identify the dance form  in a given image
 ### 3) Prediction
         :- Prediction on test data
 # test image 108
-![](108.jpg) 
+![](80.jpg) 
 # prediction
-![](dance.jpg)
+![](dance_pred.jpg)
