@@ -12,7 +12,7 @@ Aplication which can identify the dance form  in a given image
         :-PAGASOS algorithm for SVM classifier and testing
 ### 3) Prediction
         :- Prediction on test data
-# test image 108
+# test image 80
 ![](80.jpg) 
 # prediction
 ![](dance_pred.jpg)
